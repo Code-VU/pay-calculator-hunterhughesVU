@@ -8,7 +8,7 @@ def calculatePay():
     rate = float(input("Enter Rate:"))
     pay = hrs * rate
    
-    print (str(pay))
+    print (pay)
     # end assignment
 
 ## if you want to test locally before you try to sync
